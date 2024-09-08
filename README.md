@@ -90,7 +90,7 @@ house-price-prediction/
 ```
 ## Acknowledgments
 
-- Thanks to Kaggle for providing the Titanic dataset.
+- Thanks to Kaggle for providing the House Price dataset.
 - Inspiration and tutorials from various data science and machine learning resources.
 
 ## Contact
